@@ -1,1 +1,0 @@
-# Blogger-Next-and-Previous-Buttons
